@@ -3,7 +3,7 @@ Here, I upload the classification and regression tasks I have worked on using de
 
 ## LeNet
 
-This is the first Convolutional Neural Network I implemented using Pytorch. This is in the Jupyter Notebook titled MNIST Classification.ipynb. This familiarized me with the basic structure of coding neural networks with Pytorch. I learned how to load the data, create my custom Model, and add convolution layers, linear layers, and activation functions. This taught me how to write the learning algorithm to get the losses and plot them to evaluate the model and check if it is learning or overfitting and how to increase the model's accuracy.
+This is the first Convolutional Neural Network I implemented using Pytorch. This is in the Jupyter Notebook titled MNIST Classification.ipynb. This familiarized me with the basic structure of coding neural networks with Pytorch. I learned how to load the data, create my custom Model, and add convolution layers, linear layers, and activation functions. This taught me how to write the learning algorithm to get the losses and plot them to evaluate the model and check if it is learning or overfitting and how to increase the model's accuracy. I also implemented a similar architecture using Jax, the code is available in jax_mnist.ipbyn python notebook. I learned how to use Jax and Flax libraries to create a deep neural network architecture and how to write a training loop with it and I added dropout in it to get a better result on test accuracy.
 
 ## Convolutional-Recurrent Neural Network
 
