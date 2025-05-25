@@ -1,0 +1,15 @@
+accelerate==1.6.0
+torch==2.7.0
+pandas==2.2.3
+scikit-learn
+matplotlib-inline==0.1.7
+numpy==2.2.5
+transformers==4.51.3
+peft==0.4.0
+datasets==3.5.1
+bitsandbytes==0.45.5
+jax
+tensorflow-datasets
+optax
+pillow
+
